@@ -19,7 +19,11 @@ entries:
       - file: docs/platform/howto/download-ca-cert
       - file: docs/platform/howto/console-fork-service.rst
       - file: docs/platform/howto/tag-resources.rst
-
+    - file: docs/platform/database-forking
+      title: Database forking
+      entries:
+      - file: docs/platform/database-forking/database-forking-overview.rst
+      - file: docs/platform/database-forking/console-fork-service.rst
   # --------- GLOBAL -----------
   - file: docs/tools/index
     entries:
